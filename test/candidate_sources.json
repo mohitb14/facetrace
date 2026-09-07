@@ -1,0 +1,12 @@
+[
+    {
+        "candidate_file": "candidate_1.jpg",
+        "image_url": "https://avatars.mds.yandex.net/get-images-cbir/1687902/SDODLLf0KZa2Uxvmel3uxw5348/preview",
+        "source_url": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/07/summeriturnedprettyshayla.jpg"
+    },
+    {
+        "candidate_file": "candidate_2.jpg",
+        "image_url": "https://avatars.mds.yandex.net/get-images-cbir/1687902/SDODLLf0KZa2Uxvmel3uxw5348/ocr",
+        "source_url": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/07/summeriturnedprettyshayla.jpg"
+    }
+]
